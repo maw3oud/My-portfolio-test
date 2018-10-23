@@ -2172,6 +2172,3 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 	top: 0;
 	left: -2400px;
 }
-.lists {
-	display:list-item !important;
-}

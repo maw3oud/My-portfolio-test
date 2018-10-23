@@ -6,9 +6,6 @@
 .mbr-gallery .mbr-gallery-item>div:hover .icon-focus {
   opacity: 1;
 }
-.lists {
-	display:list-item !important;
-}
 
 .mbr-gallery .icon-video {
   color: white;
